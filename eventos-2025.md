@@ -67,6 +67,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | [Black Hat USA](https://www.blackhat.com) | 02-08-2025 a 07-08-2025    | Las Vegas | A preencher |
 | Gartner | 05/08/2025 a 06/08/2025   | São Paulo, SP | A preencher |
 | [DEF CON 33](https://defcon.org) | 07/08/2025 a 10/08/2025    | Las Vegas | A preencher |
+| [Security Leaders](https://securityleaders.com.br/security-report/) | 13/08/2025   | Recife | A preencher |
 | Security Bytes Florianópolis | 14/08/2025 | Florianópolis, SC | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day SC | 16/08/2025 | Florianópolis, SC | A Preencher |
 | [BXSEC](https://bxsec.com.br) | 23/08/2025    | Santos, SP | A preencher |
